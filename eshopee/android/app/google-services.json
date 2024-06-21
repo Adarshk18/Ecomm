@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "308144131738",
+    "project_id": "eshopee-9cabf",
+    "storage_bucket": "eshopee-9cabf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308144131738:android:971948f6c053f297f01923",
+        "android_client_info": {
+          "package_name": "com.project.eshopee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPo4fc0UAd60OpCSLXmHBw64Ux5rSEx5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
