@@ -1,2 +1,2 @@
 # Ecomm
-A comprehensive E-commerce mobile application
+A Comprehensive E-commerce mobile application
